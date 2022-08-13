@@ -7,7 +7,9 @@ const Analytics = () => {
 			<div className="max-w-[1240px] mx-auto grid md:grid-cols-2">
 				<img src={Laptop} alt="/" className="w-[500px] mx-auto my-4" />
 				<div className="flex flex-col justify-center">
-					<p className="text-[#00df9a] font-bold">Data analytics dashboard</p>
+					<p className="text-[#00df9a] font-bold uppercase">
+						Data analytics dashboard
+					</p>
 					<h1 className="md:text-4xl sm:text-3xl text-2xl font-bold py-2">
 						Manage Data Analytics Centrally
 					</h1>
